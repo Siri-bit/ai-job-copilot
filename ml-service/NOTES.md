@@ -1,0 +1,1 @@
+Two-column and scanned resumes now handled via Mistral OCR fallback; remaining limitations: requires external API call (latency ~1-3 sec/page), incurs per-page cost beyond free tier, may still struggle with heavily stylized fonts or handwriting
